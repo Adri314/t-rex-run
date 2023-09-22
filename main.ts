@@ -35,7 +35,7 @@ mySprite.z = 1
 animation.runImageAnimation(
 mySprite,
 assets.animation`tRexmyAnim`,
-100,
+50,
 true
 )
 mySprite.ay = 500
